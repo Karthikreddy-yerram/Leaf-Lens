@@ -3,7 +3,9 @@ import tensorflow as tf
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
 import os
-import random
+import sys
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+from download_model import download_model
 
 MODEL_PATH = os.path.join('model', 'medicinal_plants_xception.h5')
 
@@ -26,6 +28,7 @@ def load_model_if_needed():
     global model
     if model is None:
         try:
+            download_model()  # Ensure model file is present
             physical_devices = tf.config.list_physical_devices('GPU')
             if physical_devices:
                 for device in physical_devices:
@@ -38,7 +41,19 @@ def load_model_if_needed():
             raise
 
 def predict_plant(image_path):
-    # MOCKED for demo: randomly select a label and confidence
-    label = random.choice(CLASS_LABELS)
-    confidence = round(random.uniform(0.7, 0.99), 2)
-    return label, confidence
+    
+    try:
+        load_model_if_needed()
+
+        img = image.load_img(image_path, target_size=(224, 224))
+        img_array = np.expand_dims(image.img_to_array(img) / 255.0, axis=0)
+
+        predictions = model.predict(img_array)
+        predicted_index = np.argmax(predictions)
+        confidence = float(predictions[0][predicted_index])
+        label = CLASS_LABELS[predicted_index]
+
+        return label, confidence
+    except Exception as e:
+        print(f"Error during prediction: {e}")
+        raise

@@ -1,0 +1,11 @@
+# Enforce LF for all text files
+* text=auto
+
+# Specific file types to use LF
+*.ts text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.sh text eol=lf
+*.gitignore text eol=lf

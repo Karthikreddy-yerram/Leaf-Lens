@@ -26,5 +26,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# backend model
+# backend model files (large files, handled by download script)
 backend/model/medicinal_plants_xception.h5
+backend/model/*.h5
