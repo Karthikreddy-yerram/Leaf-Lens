@@ -29,3 +29,6 @@ next-env.d.ts
 # backend model files (large files, handled by download script)
 backend/model/medicinal_plants_xception.h5
 backend/model/*.h5
+
+venv/
+backend/venv/
