@@ -1,0 +1,32 @@
+[
+  {
+    "username": "karthik",
+    "email": "karthik1karthik2karthik123@gmail.com",
+    "password": "123456",
+    "isAdmin": false
+  },
+  {
+    "username": "jaipal",
+    "email": "karthikjaipal6@gmail.com",
+    "password": "12345678",
+    "isAdmin": false
+  },
+  {
+    "username": "admin",
+    "email": "admin@leaflens.com",
+    "password": "Admin@123456",
+    "isAdmin": true
+  },
+  {
+    "username": "karthikyerram",
+    "email": "karthikyerram12345@gmail.com",
+    "password": "Karthik@1",
+    "isAdmin": false
+  },
+  {
+    "username": "johndoe",
+    "email": "johndoe@gmail.com",
+    "password": "Johndoe@123",
+    "isAdmin": false
+  }
+]

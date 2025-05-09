@@ -1,0 +1,1364 @@
+{
+  "Aloevera": {
+    "scientific_name": "Aloe barbadensis miller",
+    "family": "Asphodelaceae",
+    "description": "Aloe Vera is a succulent plant well known for its soothing gel, widely used in cosmetics and alternative medicine.",
+    "medicinal_uses": [
+      "Heals burns and wounds",
+      "Supports digestive health",
+      "Hydrates and nourishes the skin"
+    ],
+    "regions": ["Africa", "India", "Middle East"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Widespread"
+    }
+  },
+  "Amla": {
+    "scientific_name": "Phyllanthus emblica",
+    "family": "Phyllanthaceae",
+    "description": "Amla, also known as Indian Gooseberry, is a superfruit rich in vitamin C with numerous health benefits.",
+    "medicinal_uses": [
+      "Boosts immunity",
+      "Enhances hair and skin health",
+      "Aids digestion"
+    ],
+    "regions": ["India", "Sri Lanka", "Bangladesh"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Extensive"
+    }
+  },
+  "Amruta_Balli": {
+    "scientific_name": "Tinospora cordifolia",
+    "family": "Menispermaceae",
+    "description": "Amruta Balli or Guduchi is an Ayurvedic herb known for its immunity-boosting and detoxifying effects.",
+    "medicinal_uses": [
+      "Boosts immunity",
+      "Treats chronic fevers",
+      "Improves liver function"
+    ],
+    "regions": ["India", "Nepal", "Myanmar"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Extensive"
+    }
+  },
+  "Arali": {
+    "scientific_name": "Nerium oleander",
+    "family": "Apocynaceae",
+    "description": "Arali is an ornamental shrub with toxic properties, traditionally used in controlled doses in folk medicine.",
+    "medicinal_uses": [
+      "Treats skin ailments in diluted form",
+      "Used in anti-parasitic remedies",
+      "Occasionally used for wound healing"
+    ],
+    "regions": ["India", "Mediterranean", "Africa"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Cautionary",
+      "Traditional use": "Folk-based"
+    }
+  },
+  "Ashoka": {
+    "scientific_name": "Saraca asoca",
+    "family": "Fabaceae",
+    "description": "Ashoka is a sacred tree in Indian culture known for its effects on women's reproductive health.",
+    "medicinal_uses": [
+      "Regulates menstrual disorders",
+      "Treats uterine infections",
+      "Reduces internal inflammation"
+    ],
+    "regions": ["India", "Sri Lanka", "Malaysia"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic"
+    }
+  },
+  "Astma_weed": {
+    "scientific_name": "Euphorbia hirta",
+    "family": "Euphorbiaceae",
+    "description": "Asthma weed is a tropical herb commonly used to treat respiratory conditions like asthma and bronchitis.",
+    "medicinal_uses": [
+      "Relieves asthma and bronchial inflammation",
+      "Treats gastrointestinal disorders",
+      "Used for wound healing"
+    ],
+    "regions": ["India", "Philippines", "Africa"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Low",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Extensive"
+    }
+  },
+  "Badipala": {
+    "scientific_name": "Vernonia cinerea",
+    "family": "Asteraceae",
+    "description": "Badipala is used in traditional medicine for treating piles, respiratory disorders, and as a blood purifier.",
+    "medicinal_uses": [
+      "Helps treat piles and bleeding disorders",
+      "Aids asthma and cough treatment",
+      "Acts as a diuretic"
+    ],
+    "regions": ["India", "Southeast Asia"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Traditional medicine"
+    }
+  },
+  "Balloon_Vine": {
+    "scientific_name": "Cardiospermum halicacabum",
+    "family": "Sapindaceae",
+    "description": "Known as 'Heart Pea', Balloon Vine is a climbing herb with anti-inflammatory and analgesic effects.",
+    "medicinal_uses": [
+      "Treats joint pain and arthritis",
+      "Used in treating dandruff and hair fall",
+      "Soothes itching and eczema"
+    ],
+    "regions": ["India", "Sri Lanka", "Africa"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Low",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Extensive"
+    }
+  },
+  "Bamboo": {
+    "scientific_name": "Bambusa vulgaris",
+    "family": "Poaceae",
+    "description": "Bamboo is not only structurally useful but its leaves and shoots are used in traditional medicine.",
+    "medicinal_uses": [
+      "Used as a diuretic and antipyretic",
+      "Supports bone health",
+      "Promotes digestion"
+    ],
+    "regions": ["India", "China", "Southeast Asia"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Regional"
+    }
+  },
+  "Beans": {
+    "scientific_name": "Phaseolus vulgaris",
+    "family": "Fabaceae",
+    "description": "Beans are widely cultivated legumes rich in fiber and nutrients, often used in managing metabolic conditions.",
+    "medicinal_uses": [
+      "Supports heart health",
+      "Regulates blood sugar",
+      "Aids digestion"
+    ],
+    "regions": ["Worldwide"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Common"
+    }
+  },
+  "Betel": {
+    "scientific_name": "Piper betle",
+    "family": "Piperaceae",
+    "description": "Betel leaf is a common cultural and medicinal herb used to treat infections and improve digestion.",
+    "medicinal_uses": [
+      "Improves oral hygiene",
+      "Acts as a digestive stimulant",
+      "Relieves headaches and wounds"
+    ],
+    "regions": ["India", "Indonesia", "Malaysia"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Widespread"
+    }
+  },
+  "Brahmi": {
+    "scientific_name": "Bacopa monnieri",
+    "family": "Plantaginaceae",
+    "description": "Brahmi is a nootropic herb that boosts cognitive performance and reduces anxiety.",
+    "medicinal_uses": [
+      "Improves memory and focus",
+      "Reduces anxiety",
+      "Helps with ADHD symptoms"
+    ],
+    "regions": ["India", "Nepal", "Sri Lanka"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic"
+    }
+  },
+  "Bringaraja": {
+    "scientific_name": "Eclipta prostrata",
+    "family": "Asteraceae",
+    "description": "Bringaraja is revered in Ayurveda as a rejuvenator, especially for hair and liver health.",
+    "medicinal_uses": [
+      "Promotes hair growth",
+      "Supports liver health",
+      "Improves vision"
+    ],
+    "regions": ["India", "China", "Thailand"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic"
+    }
+  },
+  "camphor": {
+    "scientific_name": "Cinnamomum camphora",
+    "family": "Lauraceae",
+    "description": "Camphor is known for its strong aroma and is widely used in topical applications for pain relief.",
+    "medicinal_uses": [
+      "Used in balms for pain relief",
+      "Acts as a decongestant",
+      "Antiseptic for minor cuts"
+    ],
+    "regions": ["China", "India", "Japan"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Low",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Common"
+    }
+  },
+  "Caricature": {
+    "scientific_name": "Graptophyllum pictum",
+    "family": "Acanthaceae",
+    "description": "Also called 'Caricature Plant', it is traditionally used to treat hemorrhoids and ear infections.",
+    "medicinal_uses": [
+      "Treats piles and hemorrhoids",
+      "Used in ear pain relief",
+      "Improves skin texture"
+    ],
+    "regions": ["India", "Indonesia", "Malaysia"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Low",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Regional"
+    }
+  },
+  "Castor": {
+    "scientific_name": "Ricinus communis",
+    "family": "Euphorbiaceae",
+    "description": "Castor is known for its oil which is widely used as a laxative and for hair treatment.",
+    "medicinal_uses": [
+      "Acts as a strong laxative",
+      "Promotes hair growth",
+      "Used in rheumatic pain relief"
+    ],
+    "regions": ["India", "Africa", "Brazil"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Low",
+      "Medicinal value": "High",
+      "Traditional use": "Widespread"
+    }
+  },
+  "Catharanthus": {
+    "scientific_name": "Catharanthus roseus",
+    "family": "Apocynaceae",
+    "description": "This ornamental plant is a source of key compounds used in cancer treatment medications.",
+    "medicinal_uses": [
+      "Used in chemotherapy for leukemia",
+      "Treats hypertension",
+      "Anti-diabetic effects"
+    ],
+    "regions": ["Madagascar", "India", "Africa"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Extensive"
+    }
+  },
+  "Chakte": {
+    "scientific_name": "Caesalpinia sappan",
+    "family": "Fabaceae",
+    "description": "Chakte or Sappanwood is used in traditional medicine and as a natural red dye source.",
+    "medicinal_uses": [
+      "Purifies blood",
+      "Improves circulation",
+      "Treats skin disorders"
+    ],
+    "regions": ["India", "Thailand", "Indonesia"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "High",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Ayurvedic"
+    }
+  },
+  "Chilly": {
+    "scientific_name": "Capsicum annuum",
+    "family": "Solanaceae",
+    "description": "Chilly or chili pepper is known for its heat-producing capsaicin, which also offers therapeutic benefits.",
+    "medicinal_uses": [
+      "Relieves muscle and joint pain",
+      "Improves metabolism",
+      "Stimulates appetite"
+    ],
+    "regions": ["India", "Mexico", "Thailand"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Culinary and folk"
+    }
+  },
+  "Citron lime (herelikai)": {
+    "scientific_name": "Citrus medica",
+    "family": "Rutaceae",
+    "description": "Citron lime is a fragrant citrus fruit traditionally used in Ayurvedic remedies for digestion and immunity.",
+    "medicinal_uses": [
+      "Aids digestion",
+      "Boosts immunity",
+      "Treats nausea and motion sickness"
+    ],
+    "regions": ["India", "Sri Lanka", "China"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic and culinary"
+    }
+  },
+  "Coffee": {
+    "scientific_name": "Coffea arabica",
+    "family": "Rubiaceae",
+    "description": "Coffee is a globally consumed stimulant beverage known for enhancing alertness and antioxidant properties.",
+    "medicinal_uses": [
+      "Boosts energy and mental clarity",
+      "Contains antioxidants that support cell health",
+      "May reduce risk of Parkinson’s and Alzheimer’s"
+    ],
+    "regions": ["India", "Ethiopia", "Brazil"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "High",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Global beverage"
+    }
+  },
+  "Common rue(naagdalli)": {
+    "scientific_name": "Ruta graveolens",
+    "family": "Rutaceae",
+    "description": "Common rue is a bitter herb used to ease muscle cramps, anxiety, and digestive discomfort in folk medicine.",
+    "medicinal_uses": [
+      "Alleviates menstrual cramps",
+      "Reduces anxiety and insomnia",
+      "Supports digestion"
+    ],
+    "regions": ["India", "Europe", "Mediterranean"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Low",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Folk medicine"
+    }
+  },
+  "Coriender": {
+    "scientific_name": "Coriandrum sativum",
+    "family": "Apiaceae",
+    "description": "Coriander, both seed and leaf, is used widely in cooking and for digestive support and detoxification.",
+    "medicinal_uses": [
+      "Relieves indigestion and bloating",
+      "Supports blood sugar control",
+      "Aids detoxification"
+    ],
+    "regions": ["India", "Mediterranean", "South America"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Culinary and medicinal"
+    }
+  },
+  "Curry_Leaf": {
+    "scientific_name": "Murraya koenigii",
+    "family": "Rutaceae",
+    "description": "Curry leaf is a flavorful and aromatic herb used in Indian cooking and traditional medicine.",
+    "medicinal_uses": [
+      "Improves digestion",
+      "Controls blood sugar levels",
+      "Enhances hair health"
+    ],
+    "regions": ["India", "Sri Lanka", "Myanmar"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Culinary and Ayurvedic"
+    }
+  },
+  "Doddapatre": {
+    "scientific_name": "Plectranthus amboinicus",
+    "family": "Lamiaceae",
+    "description": "Doddapatre, or Indian Borage, is used traditionally to treat colds, coughs, and respiratory ailments.",
+    "medicinal_uses": [
+      "Relieves cough and cold",
+      "Reduces inflammation",
+      "Used for asthma and bronchitis"
+    ],
+    "regions": ["India", "Sri Lanka", "Africa"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic"
+    }
+  },
+  "Drumstick": {
+    "scientific_name": "Moringa oleifera",
+    "family": "Moringaceae",
+    "description": "Drumstick or Moringa is a nutrient-rich plant with powerful medicinal properties across its leaves, pods, and seeds.",
+    "medicinal_uses": [
+      "Boosts immunity and energy",
+      "Supports bone and joint health",
+      "Reduces blood sugar and cholesterol"
+    ],
+    "regions": ["India", "Africa", "Southeast Asia"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "High",
+      "Medicinal value": "Very High",
+      "Traditional use": "Widespread"
+    }
+  },
+  "Ekka": {
+    "scientific_name": "Calotropis gigantea",
+    "family": "Apocynaceae",
+    "description": "Ekka or Crown flower is used in Ayurveda for pain relief, though it’s toxic if misused.",
+    "medicinal_uses": [
+      "Used in treating joint pain",
+      "Aids in treating indigestion",
+      "Applied externally to heal wounds"
+    ],
+    "regions": ["India", "Sri Lanka", "Thailand"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Cautionary",
+      "Traditional use": "Ayurvedic"
+    }
+  },
+  "Eucalyptus": {
+    "scientific_name": "Eucalyptus globulus",
+    "family": "Myrtaceae",
+    "description": "Eucalyptus leaves are used for respiratory ailments and in essential oils for anti-microbial properties.",
+    "medicinal_uses": [
+      "Relieves sinus and respiratory congestion",
+      "Used in muscle pain ointments",
+      "Acts as a natural insect repellent"
+    ],
+    "regions": ["Australia", "India", "Africa"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Essential oils"
+    }
+  },
+  "Ganigale": {
+    "scientific_name": "Clerodendrum serratum",
+    "family": "Lamiaceae",
+    "description": "Ganigale is a shrub used in Ayurveda primarily to treat respiratory disorders and asthma.",
+    "medicinal_uses": [
+      "Treats asthma and bronchitis",
+      "Acts as an expectorant",
+      "Reduces fever and inflammation"
+    ],
+    "regions": ["India", "Nepal", "Sri Lanka"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Ayurvedic"
+    }
+  },
+  "Ganike": {
+    "scientific_name": "Solanum nigrum",
+    "family": "Solanaceae",
+    "description": "Ganike or Black nightshade is a traditional herb used to treat ulcers, pain, and liver issues.",
+    "medicinal_uses": [
+      "Heals mouth and stomach ulcers",
+      "Supports liver function",
+      "Relieves joint pain"
+    ],
+    "regions": ["India", "Europe", "Africa"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic and Unani"
+    }
+  },
+  "Gasagase": {
+    "scientific_name": "Papaver somniferum",
+    "family": "Papaveraceae",
+    "description": "Gasagase, or poppy seeds, are rich in nutrients and used traditionally for calming effects.",
+    "medicinal_uses": [
+      "Promotes sleep",
+      "Relieves muscle pain",
+      "Improves digestion"
+    ],
+    "regions": ["India", "Afghanistan", "Turkey"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Low",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Ayurvedic and culinary"
+    }
+  },
+  "Ginger": {
+    "scientific_name": "Zingiber officinale",
+    "family": "Zingiberaceae",
+    "description": "Ginger is a widely used spice and medicinal root known for its digestive and anti-inflammatory benefits.",
+    "medicinal_uses": [
+      "Aids digestion and relieves nausea",
+      "Reduces muscle and joint pain",
+      "Fights respiratory infections"
+    ],
+    "regions": ["India", "China", "Indonesia"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "High",
+      "Medicinal value": "Very High",
+      "Traditional use": "Global"
+    }
+  },
+  "Globe Amarnath": {
+    "scientific_name": "Gomphrena globosa",
+    "family": "Amaranthaceae",
+    "description": "Globe Amaranth is an ornamental plant with traditional use in teas for respiratory and digestive support.",
+    "medicinal_uses": [
+      "Used to treat cough and sore throat",
+      "Improves vision and skin health",
+      "Soothes digestive tract"
+    ],
+    "regions": ["India", "Thailand", "Philippines"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Folk"
+    }
+  },
+  "Guava": {
+    "scientific_name": "Psidium guajava",
+    "family": "Myrtaceae",
+    "description": "Guava leaves and fruit are valued for their digestive, anti-diabetic, and immune-boosting properties.",
+    "medicinal_uses": [
+      "Improves digestion",
+      "Lowers blood sugar",
+      "Strengthens immunity"
+    ],
+    "regions": ["India", "South America", "Southeast Asia"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Widespread"
+    }
+  },
+  "Henna": {
+    "scientific_name": "Lawsonia inermis",
+    "family": "Lythraceae",
+    "description": "Henna is traditionally used for natural hair coloring, skin conditioning, and treating infections.",
+    "medicinal_uses": [
+      "Used for treating dandruff and scalp infections",
+      "Acts as a cooling agent",
+      "Treats fungal skin issues"
+    ],
+    "regions": ["India", "Middle East", "Africa"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Low",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Cosmetic and medicinal"
+    }
+  },
+  "Hibiscus": {
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "family": "Malvaceae",
+    "description": "Hibiscus is known for its antioxidant-rich petals and its use in heart and hair health.",
+    "medicinal_uses": [
+      "Supports heart health",
+      "Promotes hair growth",
+      "Helps regulate blood pressure"
+    ],
+    "regions": ["India", "Egypt", "China"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Cosmetic and therapeutic"
+    }
+  },
+  "Honge": {
+    "scientific_name": "Pongamia pinnata",
+    "family": "Fabaceae",
+    "description": "Honge, or Indian Beech, is a fast-growing tree with medicinal oil used for skin diseases and arthritis.",
+    "medicinal_uses": [
+      "Treats eczema and skin infections",
+      "Used in joint pain and arthritis relief",
+      "Promotes wound healing"
+    ],
+    "regions": ["India", "Sri Lanka", "Southeast Asia"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic and Siddha"
+    }
+  },
+  "Insulin": {
+    "scientific_name": "Costus igneus",
+    "family": "Costaceae",
+    "description": "Commonly known as the insulin plant, its leaves are consumed for their anti-diabetic effects.",
+    "medicinal_uses": [
+      "Lowers blood glucose levels",
+      "Improves insulin sensitivity",
+      "Aids pancreatic health"
+    ],
+    "regions": ["India", "Indonesia", "Philippines"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Modern herbal"
+    }
+  },
+  "Jackfruit": {
+    "scientific_name": "Artocarpus heterophyllus",
+    "family": "Moraceae",
+    "description": "Jackfruit is a large tropical fruit whose seeds and leaves offer medicinal benefits in traditional remedies.",
+    "medicinal_uses": [
+      "Supports digestive health",
+      "Improves skin health",
+      "Strengthens immune system"
+    ],
+    "regions": ["India", "Bangladesh", "Thailand"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Folk and tribal medicine"
+    }
+  },
+  "Jasmine": {
+    "scientific_name": "Jasminum sambac",
+    "family": "Oleaceae",
+    "description": "Jasmine is widely used for its calming scent and therapeutic oils in treating stress and insomnia.",
+    "medicinal_uses": [
+      "Relieves stress and anxiety",
+      "Used as natural antidepressant",
+      "Improves skin texture"
+    ],
+    "regions": ["India", "China", "Middle East"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Low",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Aromatherapy"
+    }
+  },
+  "kamakasturi": {
+    "scientific_name": "Ocimum basilicum",
+    "family": "Lamiaceae",
+    "description": "Kamakasturi, a variety of basil, is known for its sweet aroma and use in respiratory and digestive health.",
+    "medicinal_uses": [
+      "Treats cough and cold",
+      "Enhances digestion",
+      "Supports mental alertness"
+    ],
+    "regions": ["India", "Africa", "Mediterranean"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic and culinary"
+    }
+  },
+  "Kambajala": {
+    "scientific_name": "Justicia adhatoda",
+    "family": "Acanthaceae",
+    "description": "Kambajala is a medicinal shrub traditionally used to treat coughs, asthma, and bronchial conditions.",
+    "medicinal_uses": [
+      "Alleviates cough and wheezing",
+      "Acts as bronchodilator",
+      "Reduces inflammation in the lungs"
+    ],
+    "regions": ["India", "Nepal", "Sri Lanka"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic"
+    }
+  },
+  "Kasambruga": {
+    "scientific_name": "Michelia champaca",
+    "family": "Magnoliaceae",
+    "description": "Kasambruga, or Champaca, is prized for its aromatic flowers and traditional use in treating headaches and fevers.",
+    "medicinal_uses": [
+      "Reduces headache and dizziness",
+      "Improves skin glow",
+      "Used in perfumery and meditation"
+    ],
+    "regions": ["India", "Indonesia", "Myanmar"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Aromatic therapy"
+    }
+  },
+  "kepala": {
+    "scientific_name": "Cocos nucifera",
+    "family": "Arecaceae",
+    "description": "Kepala, or coconut palm, offers medicinal benefits from all parts, particularly the water and oil.",
+    "medicinal_uses": [
+      "Hydrates and restores electrolytes",
+      "Treats skin infections and dryness",
+      "Supports digestive health"
+    ],
+    "regions": ["India", "Indonesia", "Philippines"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic and tropical medicine"
+    }
+  },
+  "Kohlrabi": {
+    "scientific_name": "Brassica oleracea var. gongylodes",
+    "family": "Brassicaceae",
+    "description": "Kohlrabi is a cruciferous vegetable rich in fiber, antioxidants, and cancer-fighting nutrients.",
+    "medicinal_uses": [
+      "Improves gut health",
+      "Supports heart health",
+      "Fights oxidative stress"
+    ],
+    "regions": ["India", "Germany", "Eastern Europe"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "High",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Nutritional therapy"
+    }
+  },
+  "Lantana": {
+    "scientific_name": "Lantana camara",
+    "family": "Verbenaceae",
+    "description": "Though invasive, Lantana leaves are used externally in folk remedies for healing wounds and fungal infections.",
+    "medicinal_uses": [
+      "Applied to cuts and ulcers",
+      "Treats skin irritation",
+      "Acts as insect repellent"
+    ],
+    "regions": ["India", "Africa", "South America"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Low",
+      "Medicinal value": "Low (caution)",
+      "Traditional use": "Topical folk medicine"
+    }
+  },
+  "Lemon": {
+    "scientific_name": "Citrus limon",
+    "family": "Rutaceae",
+    "description": "Lemon is rich in Vitamin C and widely used in traditional medicine to detoxify and refresh the body.",
+    "medicinal_uses": [
+      "Boosts immunity",
+      "Cleanses the digestive tract",
+      "Treats sore throat and cold"
+    ],
+    "regions": ["India", "Italy", "USA"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic and home remedies"
+    }
+  },
+  "Lemon_grass": {
+    "scientific_name": "Cymbopogon citratus",
+    "family": "Poaceae",
+    "description": "Lemongrass is a fragrant herb used in teas and oils for its anti-inflammatory and calming properties.",
+    "medicinal_uses": [
+      "Relieves stress and anxiety",
+      "Promotes digestion",
+      "Acts as natural insect repellent"
+    ],
+    "regions": ["India", "Thailand", "Malaysia"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Aromatherapy and culinary"
+    }
+  },
+  "Malabar_Nut": {
+    "scientific_name": "Justicia adhatoda",
+    "family": "Acanthaceae",
+    "description": "Malabar Nut is a powerful herb in Ayurveda for respiratory issues, commonly used in cough syrups.",
+    "medicinal_uses": [
+      "Treats bronchitis and cough",
+      "Loosens phlegm",
+      "Improves respiratory function"
+    ],
+    "regions": ["India", "Sri Lanka", "Nepal"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic"
+    }
+  },
+  "Malabar_Spinach": {
+    "scientific_name": "Basella alba",
+    "family": "Basellaceae",
+    "description": "Malabar Spinach is a leafy green with cooling properties used for digestion and skin problems.",
+    "medicinal_uses": [
+      "Aids in digestion",
+      "Cools the body in summer",
+      "Heals ulcers and wounds"
+    ],
+    "regions": ["India", "Malaysia", "Philippines"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Ayurvedic"
+    }
+  },
+  "Mango": {
+    "scientific_name": "Mangifera indica",
+    "family": "Anacardiaceae",
+    "description": "Mango leaves and bark are used in traditional medicine to regulate diabetes and support heart health.",
+    "medicinal_uses": [
+      "Controls blood sugar levels",
+      "Improves digestion",
+      "Strengthens immune system"
+    ],
+    "regions": ["India", "Bangladesh", "Mexico"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic"
+    }
+  },
+  "Marigold": {
+    "scientific_name": "Tagetes erecta",
+    "family": "Asteraceae",
+    "description": "Marigold flowers are antiseptic and used to treat skin wounds, eye infections, and inflammation.",
+    "medicinal_uses": [
+      "Heals cuts and rashes",
+      "Soothes eye irritation",
+      "Acts as antifungal agent"
+    ],
+    "regions": ["India", "Mexico", "USA"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Topical therapy"
+    }
+  },
+  "Mint": {
+    "scientific_name": "Mentha arvensis",
+    "family": "Lamiaceae",
+    "description": "Mint is a cooling herb used in traditional medicine to relieve digestive issues and headaches.",
+    "medicinal_uses": [
+      "Soothes indigestion and nausea",
+      "Relieves headaches",
+      "Improves oral hygiene"
+    ],
+    "regions": ["India", "Europe", "North America"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic and culinary"
+    }
+  },
+  "Neem": {
+    "scientific_name": "Azadirachta indica",
+    "family": "Meliaceae",
+    "description": "Neem is a fast-growing tree revered in Ayurveda for its powerful antibacterial, antifungal, and blood-purifying properties.",
+    "medicinal_uses": [
+      "Treats skin conditions like acne and eczema",
+      "Purifies blood and supports liver detox",
+      "Used in oral care for gum and tooth health"
+    ],
+    "regions": ["India", "Sri Lanka", "Pakistan"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Extensive in Ayurveda and Unani"
+    }
+  },
+  "Nelavembu": {
+    "scientific_name": "Andrographis paniculata",
+    "family": "Acanthaceae",
+    "description": "Nelavembu, known as Kalmegh, is a bitter herb traditionally used to treat fevers, especially during viral outbreaks.",
+    "medicinal_uses": [
+      "Reduces fever and body aches",
+      "Boosts immunity",
+      "Supports liver function"
+    ],
+    "regions": ["India", "Thailand", "China"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Siddha and Ayurveda"
+    }
+  },
+  "Nerale": {
+    "scientific_name": "Syzygium cumini",
+    "family": "Myrtaceae",
+    "description": "Also known as Jamun, this fruit tree is used to regulate blood sugar and improve oral health.",
+    "medicinal_uses": [
+      "Manages diabetes",
+      "Strengthens gums",
+      "Improves digestion"
+    ],
+    "regions": ["India", "Bangladesh", "Sri Lanka"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic and folk medicine"
+    }
+  },
+  "Nooni": {
+    "scientific_name": "Morinda citrifolia",
+    "family": "Rubiaceae",
+    "description": "Noni is a tropical fruit known for its immune-boosting and pain-relieving properties.",
+    "medicinal_uses": [
+      "Reduces pain and inflammation",
+      "Strengthens immunity",
+      "Improves joint function"
+    ],
+    "regions": ["India", "Pacific Islands", "Hawaii"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Pacific and tribal medicine"
+    }
+  },
+  "Onion": {
+    "scientific_name": "Allium cepa",
+    "family": "Amaryllidaceae",
+    "description": "Onion is a common culinary plant with therapeutic effects on cardiovascular health and immunity.",
+    "medicinal_uses": [
+      "Lowers cholesterol and blood pressure",
+      "Improves respiratory health",
+      "Boosts immunity"
+    ],
+    "regions": ["India", "China", "Worldwide"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Home and folk remedies"
+    }
+  },
+  "Padri": {
+    "scientific_name": "Stereospermum suaveolens",
+    "family": "Bignoniaceae",
+    "description": "Padri is a sacred and medicinal tree used in Dashamoola preparations in Ayurveda.",
+    "medicinal_uses": [
+      "Reduces joint pain and swelling",
+      "Improves vitality",
+      "Used in treating fever"
+    ],
+    "regions": ["India", "Sri Lanka"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Low",
+      "Medicinal value": "High",
+      "Traditional use": "Classical Ayurvedic texts"
+    }
+  },
+  "Palak(Spinach)": {
+    "scientific_name": "Spinacia oleracea",
+    "family": "Amaranthaceae",
+    "description": "Palak, or spinach, is a leafy green vegetable packed with nutrients and beneficial for general health.",
+    "medicinal_uses": [
+      "Improves eye and bone health",
+      "Boosts hemoglobin levels",
+      "Promotes digestion"
+    ],
+    "regions": ["India", "China", "Worldwide"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "High",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Modern nutritional therapy"
+    }
+  },
+  "Pappaya": {
+    "scientific_name": "Carica papaya",
+    "family": "Caricaceae",
+    "description": "Papaya is a tropical fruit used for its digestive enzymes and benefits in skin and wound healing.",
+    "medicinal_uses": [
+      "Enhances digestion with papain",
+      "Reduces inflammation",
+      "Heals skin ulcers"
+    ],
+    "regions": ["India", "Brazil", "Mexico"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic and tropical medicine"
+    }
+  },
+  "Parijatha": {
+    "scientific_name": "Nyctanthes arbor-tristis",
+    "family": "Oleaceae",
+    "description": "Parijatha, or Night-flowering Jasmine, is used in Ayurveda to treat arthritis, fever, and parasitic infections.",
+    "medicinal_uses": [
+      "Relieves joint inflammation",
+      "Treats chronic fevers",
+      "Used as an anti-parasitic"
+    ],
+    "regions": ["India", "Bangladesh", "Nepal"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Medium",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic"
+    }
+  },
+  "Pea": {
+    "scientific_name": "Pisum sativum",
+    "family": "Fabaceae",
+    "description": "Green peas are rich in protein and antioxidants, contributing to general health and digestion.",
+    "medicinal_uses": [
+      "Improves gut motility",
+      "Boosts heart health",
+      "Controls blood sugar"
+    ],
+    "regions": ["India", "Europe", "China"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Diet-based therapy"
+    }
+  },
+  "Pepper": {
+    "scientific_name": "Piper nigrum",
+    "family": "Piperaceae",
+    "description": "Black pepper is known as the 'King of Spices' with powerful effects on metabolism and nutrient absorption.",
+    "medicinal_uses": [
+      "Enhances digestion",
+      "Boosts metabolism",
+      "Supports respiratory health"
+    ],
+    "regions": ["India", "Vietnam", "Indonesia"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurveda and Unani"
+    }
+  },
+  "Pomegranate": {
+    "scientific_name": "Punica granatum",
+    "family": "Lythraceae",
+    "description": "Pomegranate is rich in antioxidants and used for improving heart health and immunity.",
+    "medicinal_uses": [
+      "Protects against heart disease",
+      "Reduces blood pressure",
+      "Improves skin and digestion"
+    ],
+    "regions": ["India", "Iran", "Afghanistan"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Very High",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurveda and Unani"
+    }
+  },
+  "Pumpkin": {
+    "scientific_name": "Cucurbita pepo",
+    "family": "Cucurbitaceae",
+    "description": "Pumpkin is nutrient-rich and used in traditional medicine for urinary health and wound healing.",
+    "medicinal_uses": [
+      "Promotes prostate health",
+      "Improves vision",
+      "Aids skin healing"
+    ],
+    "regions": ["India", "USA", "China"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Home and tribal medicine"
+    }
+  },
+  "Raddish": {
+    "scientific_name": "Raphanus sativus",
+    "family": "Brassicaceae",
+    "description": "Radish is a root vegetable used to support digestion, detoxification, and respiratory health.",
+    "medicinal_uses": [
+      "Treats jaundice and kidney stones",
+      "Promotes liver health",
+      "Clears mucus and congestion"
+    ],
+    "regions": ["India", "Japan", "Korea"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Home and folk medicine"
+    }
+  },
+  "Rose": {
+    "scientific_name": "Rosa indica",
+    "family": "Rosaceae",
+    "description": "Rose petals are used for their soothing, anti-inflammatory, and aromatic properties in traditional medicine.",
+    "medicinal_uses": [
+      "Improves skin texture and tone",
+      "Reduces anxiety and stress",
+      "Treats digestive issues"
+    ],
+    "regions": ["India", "Iran", "Turkey"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Unani and aromatherapy"
+    }
+  },
+  "Sampige": {
+    "scientific_name": "Magnolia champaca",
+    "family": "Magnoliaceae",
+    "description": "Sampige is a sacred flowering tree with fragrant flowers used in temples and traditional remedies for fever and ulcers.",
+    "medicinal_uses": [
+      "Treats fever and inflammation",
+      "Used for ulcers and wounds",
+      "Reduces anxiety"
+    ],
+    "regions": ["India", "Myanmar", "Indonesia"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Aromatic therapy and folk medicine"
+    }
+  },
+  "Sapota": {
+    "scientific_name": "Manilkara zapota",
+    "family": "Sapotaceae",
+    "description": "Sapota, or chikoo, is a sweet tropical fruit known for its energy-boosting and anti-inflammatory properties.",
+    "medicinal_uses": [
+      "Aids digestion",
+      "Reduces inflammation",
+      "Strengthens bones"
+    ],
+    "regions": ["India", "Mexico", "Central America"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Folk and home medicine"
+    }
+  },
+  "Seethaashoka": {
+    "scientific_name": "Saraca asoca",
+    "family": "Fabaceae",
+    "description": "Seethaashoka is a sacred tree in Ayurveda, primarily used for women's reproductive health.",
+    "medicinal_uses": [
+      "Treats menstrual disorders",
+      "Supports uterine health",
+      "Alleviates pain and fatigue"
+    ],
+    "regions": ["India", "Sri Lanka"],
+    "properties": {
+      "Anti-inflammatory": "High",
+      "Antioxidant": "Low",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic gynecology"
+    }
+  },
+  "Seethapala": {
+    "scientific_name": "Annona squamosa",
+    "family": "Annonaceae",
+    "description": "Seethapala, or custard apple, is a sweet fruit with cooling properties and digestive benefits.",
+    "medicinal_uses": [
+      "Improves digestion",
+      "Treats anemia",
+      "Promotes skin healing"
+    ],
+    "regions": ["India", "South America", "Philippines"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Ayurvedic and tropical medicine"
+    }
+  },
+  "Spinach1": {
+    "scientific_name": "Basella alba",
+    "family": "Basellaceae",
+    "description": "This variety of spinach is rich in iron and used to treat anemia, inflammation, and constipation.",
+    "medicinal_uses": [
+      "Boosts iron levels",
+      "Improves gut motility",
+      "Reduces body heat"
+    ],
+    "regions": ["India", "Asia", "Africa"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Folk medicine"
+    }
+  },
+  "Tamarind": {
+    "scientific_name": "Tamarindus indica",
+    "family": "Fabaceae",
+    "description": "Tamarind is a tangy fruit widely used for digestive issues, fever, and liver health.",
+    "medicinal_uses": [
+      "Stimulates appetite",
+      "Improves digestion",
+      "Reduces fever"
+    ],
+    "regions": ["India", "Thailand", "Africa"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "High",
+      "Medicinal value": "High",
+      "Traditional use": "Ayurvedic and Unani"
+    }
+  },
+  "Taro": {
+    "scientific_name": "Colocasia esculenta",
+    "family": "Araceae",
+    "description": "Taro root is used to manage digestive disorders and is rich in fiber and potassium.",
+    "medicinal_uses": [
+      "Improves digestive health",
+      "Regulates blood pressure",
+      "Reduces inflammation"
+    ],
+    "regions": ["India", "Africa", "Pacific Islands"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "Low",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Tribal medicine"
+    }
+  },
+  "Tecoma": {
+    "scientific_name": "Tecoma stans",
+    "family": "Bignoniaceae",
+    "description": "Tecoma is used in traditional systems to manage diabetes and digestive complaints.",
+    "medicinal_uses": [
+      "Regulates blood sugar",
+      "Treats stomach ulcers",
+      "Improves digestion"
+    ],
+    "regions": ["India", "Central America"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Medium",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Herbal medicine"
+    }
+  },
+  "Thumbe": {
+    "scientific_name": "Leucas aspera",
+    "family": "Lamiaceae",
+    "description": "Thumbe is a small herb used in rural Indian medicine for insect bites and respiratory issues.",
+    "medicinal_uses": [
+      "Treats cold and cough",
+      "Soothes insect bites",
+      "Improves digestion"
+    ],
+    "regions": ["India", "Nepal"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Low",
+      "Medicinal value": "Moderate",
+      "Traditional use": "Folk and tribal use"
+    }
+  },
+  "Tomato": {
+    "scientific_name": "Solanum lycopersicum",
+    "family": "Solanaceae",
+    "description": "Tomatoes are rich in lycopene, which is known to fight free radicals and improve heart and skin health.",
+    "medicinal_uses": [
+      "Improves cardiovascular health",
+      "Boosts skin vitality",
+      "Supports immune function"
+    ],
+    "regions": ["India", "USA", "Italy"],
+    "properties": {
+      "Anti-inflammatory": "Low",
+      "Antioxidant": "Very High",
+      "Medicinal value": "High",
+      "Traditional use": "Modern nutritional therapy"
+    }
+  },
+  "Tulasi": {
+    "scientific_name": "Ocimum tenuiflorum",
+    "family": "Lamiaceae",
+    "description": "Tulasi, or Holy Basil, is one of the most revered medicinal plants in India, known for spiritual and physical healing.",
+    "medicinal_uses": [
+      "Boosts immunity",
+      "Relieves respiratory ailments",
+      "Reduces stress and anxiety"
+    ],
+    "regions": ["India", "Thailand", "Sri Lanka"],
+    "properties": {
+      "Anti-inflammatory": "Medium",
+      "Antioxidant": "High",
+      "Medicinal value": "Very High",
+      "Traditional use": "Extensive in Ayurveda and home rituals"
+    }
+  },
+  "Turmeric": {
+    "scientific_name": "Curcuma longa",
+    "family": "Zingiberaceae",
+    "description": "Turmeric is a powerful root spice with active compound curcumin, widely used for inflammation and immunity.",
+    "medicinal_uses": [
+      "Reduces inflammation",
+      "Supports joint and liver health",
+      "Improves skin conditions"
+    ],
+    "regions": ["India", "China", "Thailand"],
+    "properties": {
+      "Anti-inflammatory": "Very High",
+      "Antioxidant": "Very High",
+      "Medicinal value": "Very High",
+      "Traditional use": "Ayurveda, Siddha, Unani"
+    }
+  }
+}
+  
+  

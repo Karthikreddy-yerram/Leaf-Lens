@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1131545e-10d1-40fc-927e-10368ed2cb9c",
+    "plantName": "Caricature",
+    "confidence": 0.9882453680038452,
+    "imageUrl": "http://localhost:5000/uploads/3c086f27-a131-48b9-84d5-a6889acd8708.jpg",
+    "timestamp": "2025-04-20T10:42:50.186Z",
+    "userId": "karthikyerram12345@gmail.com"
+  },
+  {
+    "id": "1c26b178-b072-40bf-8218-26a5794f9cc6",
+    "plantName": "Caricature",
+    "confidence": 0.7719181180000305,
+    "imageUrl": "http://localhost:5000/uploads/44f84366-525b-4230-a6c4-954b4750800e.webp",
+    "timestamp": "2025-04-20T10:45:15.248Z",
+    "userId": "karthikyerram12345@gmail.com"
+  },
+  {
+    "id": "c610663e-fb1a-4405-bc01-7b1a47c1b347",
+    "plantName": "Aloevera",
+    "confidence": 0.6660557389259338,
+    "imageUrl": "http://localhost:5000/uploads/2bb06929-efa3-4886-9c70-3426a94c2abd.jpg",
+    "timestamp": "2025-04-20T11:08:58.103Z",
+    "userId": "karthikyerram12345@gmail.com"
+  },
+  {
+    "id": "c64eb7f4-1d74-41e8-8cba-44becb7a92bf",
+    "plantName": "Seethapala",
+    "confidence": 0.4841609299182892,
+    "imageUrl": "http://localhost:5000/uploads/d9f9355a-c0c4-413f-bf66-541631468bb7.webp",
+    "timestamp": "2025-04-20T11:20:25.634Z",
+    "userId": "karthikyerram12345@gmail.com"
+  },
+  {
+    "id": "c9f46e16-8398-4959-baf8-6ae7546c337e",
+    "plantName": "Globe Amarnath",
+    "confidence": 0.2397318035364151,
+    "imageUrl": "http://localhost:5000/uploads/ac7942fb-3f60-4bcc-8319-01d32638ed1e.jpg",
+    "timestamp": "2025-04-20T12:05:35.777Z",
+    "userId": "karthikyerram12345@gmail.com"
+  }
+]
