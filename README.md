@@ -77,6 +77,8 @@ When you run the backend, the model will be automatically downloaded from Google
 
 The download logic is located in backend/download_model.py, invoked by identify.py.
 
+---
+
 ## 💡 Notes
 Python 3.7+ and Node.js (LTS) must be installed.
 
@@ -84,29 +86,35 @@ Python 3.7+ and Node.js (LTS) must be installed.
 
 The app works best on modern browsers with stable GPU acceleration for training (if needed).
 
+---
+
 ## 📈 Sample Results
-✅ Uploaded Image → Real-time prediction: Aloe vera
 
-📜 Report: Uses, Regions, Family, Scientific Name
+- ✅ Uploaded Image → Real-time prediction: Aloe vera
 
-🌍 Translated into Telugu, Hindi, Kannada, Tamil, etc.
+- 📜 Report: Uses, Regions, Family, Scientific Name
 
-🔊 Read aloud in user's language
+- 🌍 Translated into Telugu, Hindi, Kannada, Tamil, etc.
 
-🧾 View past identifications in Dashboard
+- 🔊 Read aloud in user's language
+
+- 🧾 View past identifications in Dashboard
+
+---
 
 ## 🔮 Future Scope
-📱 Mobile app with TensorFlow Lite
 
-🌱 Add support for endangered/global plant species
+- 📱 Mobile app with TensorFlow Lite
 
-🦠 Leaf disease detection via CNN
+- 🌱 Add support for endangered/global plant species
 
-🌿 Multi-part recognition: leaf, flower, root
+- 🦠 Leaf disease detection via CNN
 
-🤝 User contributions with moderation/authentication
+- 🌿 Multi-part recognition: leaf, flower, root
 
+- 🤝 User contributions with moderation/authentication
 
+---
 
 ## 🏗 Folder Structure (Simplified)
 leaf-lens/
@@ -124,6 +132,7 @@ leaf-lens/
 │ └── public/ # Icons, leaf images
 └── README.md
 
+---
 ## ⚙️ Setup Instructions
 
 ### Clone the repository:
