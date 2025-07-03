@@ -70,49 +70,6 @@ Manual identification of medicinal plants is slow, requires expert knowledge, an
 
 ---
 
-## 🏗 Folder Structure (Simplified)
-leaf-lens/
-├── backend/
-│ ├── app.py # Main Flask API
-│ ├── identify.py # Model prediction logic
-│ ├── download_model.py # Auto-download model from Google Drive
-│ ├── model/
-│ │ └── medicinal_plants_xception.h5 # (auto-downloaded if missing)
-│ ├── utils/ # gTTS, translator
-│ └── requirements.txt
-├── frontend/
-│ ├── app/identify/ # Upload, prediction page
-│ ├── components/ # UI elements
-│ └── public/ # Icons, leaf images
-└── README.md
-
-
-## ⚙️ Setup Instructions
-
-### Clone the repository:
-```bash
-git clone <your-repo-url>
-cd Leaf-Lens
-Install backend dependencies:
-
-cd backend
-pip install -r requirements.txt
-
-Install frontend dependencies:
-
-cd ../frontend
-npm install
-
-Run the backend:
-
-cd ../backend
-python app.py
-
-Run the frontend:
-
-cd ../frontend
-npm run dev
-
 ##📁 Model File Handling
 The trained model file is not included in the repository due to its size.
 
@@ -149,3 +106,46 @@ The app works best on modern browsers with stable GPU acceleration for training 
 
 🤝 User contributions with moderation/authentication
 
+
+
+## 🏗 Folder Structure (Simplified)
+leaf-lens/
+├── backend/
+│ ├── app.py # Main Flask API
+│ ├── identify.py # Model prediction logic
+│ ├── download_model.py # Auto-download model from Google Drive
+│ ├── model/
+│ │ └── medicinal_plants_xception.h5 # (auto-downloaded if missing)
+│ ├── utils/ # gTTS, translator
+│ └── requirements.txt
+├── frontend/
+│ ├── app/identify/ # Upload, prediction page
+│ ├── components/ # UI elements
+│ └── public/ # Icons, leaf images
+└── README.md
+
+## ⚙️ Setup Instructions
+
+### Clone the repository:
+```bash
+git clone <your-repo-url>
+cd Leaf-Lens
+Install backend dependencies:
+
+cd backend
+pip install -r requirements.txt
+
+Install frontend dependencies:
+
+cd ../frontend
+npm install
+
+Run the backend:
+
+cd ../backend
+python app.py
+
+Run the frontend:
+
+cd ../frontend
+npm run dev
