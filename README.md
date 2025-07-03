@@ -70,21 +70,21 @@ Manual identification of medicinal plants is slow, requires expert knowledge, an
 
 ---
 
-##📁 Model File Handling
+## 📁 Model File Handling
 The trained model file is not included in the repository due to its size.
 
 When you run the backend, the model will be automatically downloaded from Google Drive if it doesn’t exist.
 
 The download logic is located in backend/download_model.py, invoked by identify.py.
 
-##💡 Notes
+## 💡 Notes
 Python 3.7+ and Node.js (LTS) must be installed.
 
 .gitignore prevents large model files from being committed.
 
 The app works best on modern browsers with stable GPU acceleration for training (if needed).
 
-##📈 Sample Results
+## 📈 Sample Results
 ✅ Uploaded Image → Real-time prediction: Aloe vera
 
 📜 Report: Uses, Regions, Family, Scientific Name
@@ -95,7 +95,7 @@ The app works best on modern browsers with stable GPU acceleration for training 
 
 🧾 View past identifications in Dashboard
 
-##🔮 Future Scope
+## 🔮 Future Scope
 📱 Mobile app with TensorFlow Lite
 
 🌱 Add support for endangered/global plant species
@@ -129,6 +129,7 @@ leaf-lens/
 ### Clone the repository:
 ```bash
 git clone <your-repo-url>
+
 cd Leaf-Lens
 Install backend dependencies:
 
